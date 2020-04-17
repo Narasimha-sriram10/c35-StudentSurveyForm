@@ -12,3 +12,4 @@ Every submit the data is inserted, into the database, if you referesh the databa
 Once submit, Click on reset to generate a new form. 
 
 Database : https://user-images.githubusercontent.com/59869563/79552776-1fdb6b00-80b9-11ea-8666-0c05f0943b5d.png
+
