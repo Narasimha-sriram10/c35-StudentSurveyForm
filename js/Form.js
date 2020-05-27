@@ -94,6 +94,7 @@ class Form{
        
 
         this.button.mousePressed(() => {
+         
             this.greeting.show();
             this.description.hide();
             this.greeting.html("Thanks for your Submisssion!!");
