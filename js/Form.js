@@ -25,6 +25,7 @@ class Form{
         this.radio = createRadio('h4');
         this.radio.option('YES');
         this.radio.option('NO');
+        
         this.radio.style('width', '60px');
 
         //question 2
